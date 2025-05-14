@@ -20,17 +20,6 @@ I'm an **audio engineer turned software developer** with a passion for building 
 - Creating **custom CLI tools** like [Gobuddy](https://pkg.go.dev/github.com/JacobAndrewSmith92/gobuddy)
 - Leveraging **AI/LLM tools** like LangChain & Vertex AI for smart automation
 
----
-
-## 🤝 I’m Looking to Collaborate On...
-
-- Open source tools that **improve developer workflows**
-- Projects exploring the **intersection of AI and automation**
-- Scalable backend infrastructure or **API-heavy platforms**
-- Educational or edtech tools — I’ve got experience from **K–12 platforms**
-
----
-
 ## ⚙️ Tech Stack
 
 **Languages**: Go, Python, JavaScript, TypeScript  
