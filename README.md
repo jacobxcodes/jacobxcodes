@@ -14,12 +14,6 @@ I'm an **audio engineer turned software developer** with a passion for building 
 
 ---
 
-## 💬 Ask Me About...
-
-- Building APIs 
-- Creating **custom CLI tools** like [Gobuddy](https://pkg.go.dev/github.com/JacobAndrewSmith92/gobuddy)
-- Leveraging **AI/LLM tools** like LangChain & Vertex AI for smart automation
-
 ## ⚙️ Tech Stack
 
 **Languages**: Go, Python, JavaScript, TypeScript  
@@ -28,7 +22,6 @@ I'm an **audio engineer turned software developer** with a passion for building 
 **Databases & Caching**: Postgres, MySQL, Redis  
 **AI & LLM Tooling**: LangChain, Vertex AI, OpenAI  
 **Search & Analytics**: Elasticsearch
-
 
 ---
 
