@@ -2,7 +2,6 @@
 
 I'm an **audio engineer turned software developer** with a passion for building purposeful, scalable applications. Whether it's designing robust APIs, crafting seamless UIs, or leading cross-functional teams, I thrive at the intersection of creativity, precision, and engineering excellence.
 
----
 
 ## 🧠 What I'm Good At
 
