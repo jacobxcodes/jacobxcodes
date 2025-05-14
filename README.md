@@ -43,6 +43,4 @@ I'm an **audio engineer turned software developer** with a passion for building 
 
 ---
 
-## 🔗 Let's Connect
-
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jacob-a-smith/)
