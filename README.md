@@ -33,11 +33,13 @@ I'm an **audio engineer turned software developer** with a passion for building 
 
 ## ⚙️ Tech Stack
 
-**Languages**: Go, Python, JavaScript/TypeScript  
-**Frameworks**: React, Next.js, Express, Redux, Django  
-**Platforms**: AWS, GCP, Docker, Terraform, Apigee  
-**Databases**: Postgres, MySQL, Redis  
-**Tooling**: CI/CD, Jest, LangChain, OpenAI, Vertex AI, Elasticsearch
+**Languages**: Go, Python, JavaScript, TypeScript  
+**Frameworks & Libraries**: React, Next.js, Express, Redux, Django, Jest, Pydantic  
+**Cloud & DevOps**: AWS, GCP, Docker, Terraform, CI/CD (Buddy, GitHub Actions), Apigee  
+**Databases & Caching**: Postgres, MySQL, Redis  
+**AI & LLM Tooling**: LangChain, Vertex AI, OpenAI  
+**Search & Analytics**: Elasticsearch
+
 
 ---
 
